@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="button_get_avatar">Загрузить изображение</string>
+</resources>
